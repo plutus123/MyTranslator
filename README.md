@@ -1,4 +1,4 @@
-#MyTranslato
+MyTranslator
 This Python script allows you to perform voice-based translations with language detection. It utilizes the speech_recognition, deep_translator, and gtts libraries to achieve this functionality.
 
 Usage
